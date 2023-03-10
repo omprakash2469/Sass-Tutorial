@@ -1,0 +1,18 @@
+Important Notes
+---
+    - Sass stands for Syntactically Awesome Stylesheet
+    - Sass is an extension to CSS
+    - Sass is a CSS pre-processor
+    - Sass is completely compatible with all versions of CSS
+    - Sass reduces repetition of CSS and therefore saves time
+
+Features of SASS
+    - Nesting
+    - Variables
+    - Operators
+    - @use
+    - @mixin - @include
+    - @extend - ( Represents inheritance )
+
+VS Code Extension
+    - Live SASS Compiler
